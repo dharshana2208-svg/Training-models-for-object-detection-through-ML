@@ -36,7 +36,7 @@ The predict_realtime_images.py script performs detection on live webcam input or
 The config.yaml file contains dataset paths and class names required by YOLO during training.
 The requirements.txt file lists all Python libraries needed to run this project.
 The .gitignore file prevents large files such as videos or unnecessary folders from being uploaded to GitHub.
-ASSIGNMENT1.py containc solution for all the assignment1 question
+Assignment1.py containc solution for all the assignment1 question
 
 Prerequisites
 
