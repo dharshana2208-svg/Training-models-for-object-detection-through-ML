@@ -1,4 +1,8 @@
-runs/
-datasets/
 __pycache__/
-*.mp4
+*.pt
+*.pth
+*.onnx
+outputs/
+data/images/
+data/labels/
+.env
