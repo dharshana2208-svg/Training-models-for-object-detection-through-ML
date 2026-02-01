@@ -1,0 +1,10 @@
+train: C:/Users/DHARSHANA D/Downloads/Vehicle_detection_yolov8/images/train
+val:   C:/Users/DHARSHANA D/Downloads/Vehicle_detection_yolov8/images/val
+test: C:/Users/DHARSHANA D/Downloads/Vehicle_detection_yolov8/images/test
+names:
+  0: Auto-rickshaw
+  1: Bicycle
+  2: Bus
+  3: Car
+  4: Motorcycle
+  5: Truck
